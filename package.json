@@ -1,0 +1,15 @@
+{
+  "name": "rocketship-tint",
+  "version": "1.0.2",
+  "description": "LU Labs Design Atoms",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viralpatel380/rocketship-tint.git"
+  },
+  "author": "Viral Patel <viral@letsupgrade.in>",
+  "license": "ISC"
+}
